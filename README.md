@@ -10,9 +10,11 @@ AtliQ Grand Hospitality, operating luxury/business hotels across India, is **los
 1️⃣ Revenue Trends:
 Mumbai: ₹669M (39.13%) – the top revenue-generating city.
 Delhi: ₹260M (15.21%) – Strong occupancy but low revenue, highlighting a need for pricing strategy adjustments.
+
 2️⃣ Occupancy Rates:
 -> Weekends perform better (62.5%) than weekdays (56%).
 -> Properties like Atlique Seasons struggle with an occupancy rate of just 46%, presenting a clear opportunity for improvement.
+
 3️⃣ Weekly Trends:
 Revenue and ADR trends highlight seasonal fluctuations, providing opportunities for proactive planning.
 A gradual week-on-week increase in Occupancy and revPAR shows positive momentum, reflecting effective strategies. 
